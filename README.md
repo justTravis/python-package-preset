@@ -1,5 +1,7 @@
 # python-package-preset
 
+this youtube video explains it: https://www.youtube.com/watch?v=PYs_mAion2E
+
 My preset for a python package that makes importing less of a hassle
 
 Features:
